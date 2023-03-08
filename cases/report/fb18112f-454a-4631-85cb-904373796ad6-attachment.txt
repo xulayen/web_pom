@@ -1,0 +1,5 @@
+正在定位元素信息：定位方式->id,value值->id_email
+正在定位元素信息：定位方式->id,value值->id_password
+正在定位元素信息：定位方式->id,value值->id_email
+正在定位元素信息：定位方式->id,value值->id_password
+正在定位元素信息：定位方式->id,value值->jsEmailRegBtn
